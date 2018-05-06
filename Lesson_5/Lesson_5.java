@@ -2,7 +2,7 @@ package HomeWorkPartOne.Lesson_5;
 
 import java.util.Arrays;
 
-public class Lesson_6 {
+public class Lesson_5 {
     public static void main(String[] args) {
         Employee[] empArr = new Employee[5];
         empArr[0] = new Employee("Vasiliy", "Slesar'", "VasiliyVodka@forever.ru", 89235675147L, 12700, 44);
